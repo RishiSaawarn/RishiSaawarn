@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RishiSaawarn
-- 👀 I’m interested in AI-ML and Some other things
-<!-- 🌱 I’m currently learning Python--->
+- 👀 I’m interested in ML-Research, Hardware and Web-Developement(Bcakend especially).
 - 💞️ I’m enthusiastic towards collaborating on various projects and am looking forward to learn a lot .  
 - 📫 How to reach me ... rksaawarn2005@gmail.com
 - 😄 Pronouns: He/Him 
