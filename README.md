@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @RishiSaawarn
-- 👀 I’m interested in ML-Research, Hardware and Web-Developement(Bcakend especially).
-- 💞️ I’m enthusiastic towards collaborating on various projects and am looking forward to learn a lot .  
-- 📫 How to reach me ... rksaawarn2005@gmail.com
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Learning to enjoy Life and Enjoying learning from Life
+### Hi, I'm Rishi 👋
 
-<!---
-RishiSaawarn/RishiSaawarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 Final-year B.Tech student in Electronics and Instrumentation Engineering at NIT Rourkela
+- 💻 Building at the intersection of **ML/AI engineering, backend systems, and hardware-software co-design** — from RAG pipelines to Verilog implementations of neural network architectures
+- 🛠️ Tech I work with: FastAPI, LangChain, PostgreSQL, pgvector, Redis, Docker, ONNX Runtime, GCP
+- 🧠 Also into algorithmic trading (built an EMA crossover strategy on TT/ADL, and a hedge-logic trading bot) and competitive programming.
+- 🤝 Open to collaborating on ML/systems projects — always learning, always shipping
+- 📫 Reach me at rksaawarn2005@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: A photon can take up to 40,000 years to escape the Sun's core — but only 8 minutes to cross 93 million miles once it's out. Getting unstuck is always the hardest part.
